@@ -1,52 +1,80 @@
-Hi, I'm Anees Fathima S
+<div align="center">
+  <img src="./13e1f36c-0d1f-4d10-a301-1c0a19f55775.png" alt="Coding Illustration" width="400"/>
+</div>
 
-I'm a passionate 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 who enjoys building real-world applications and solving challenging problems.
-I have experience working on full-stack projects using the 𝗠𝗘𝗥𝗡 𝘀𝘁𝗮𝗰𝗸, and I’m always eager to learn and grow as a developer.
+<h1 align="center">Hi 👋, I'm Anees Fathima S</h1>
+<h3 align="center">Software Developer | MERN Stack Enthusiast</h3>
 
-_🔧 Tech Stack_
+---
 
+## 👩‍💻 About Me
 
-**Languages:** Java, Python (Beginner), JavaScript
+I'm a passionate **Software Developer** who enjoys building real-world applications and solving challenging problems.  
+I have hands-on experience with **full-stack development using the MERN stack**, and I’m always eager to learn, explore, and grow as a developer.
 
-**Frontend:** HTML, CSS, React.js
+---
 
-**Backend:** Node.js, Express.js
+## 🔧 Tech Stack
 
-**Database:** MySQL, MongoDB
+**Languages:**  
+- Java  
+- JavaScript  
+- Python (Beginner)
 
-**Tools & Platforms:** Git, GitHub, VS Code, Postman
+**Frontend:**  
+- HTML  
+- CSS  
+- React.js  
 
-_💡 Interests_
+**Backend:**  
+- Node.js  
+- Express.js  
 
+**Database:**  
+- MySQL  
+- MongoDB  
 
--Full-stack web development
+**Tools & Platforms:**  
+- Git  
+- GitHub  
+- VS Code  
+- Postman  
 
--Building projects using the 𝗠𝗘𝗥𝗡 𝘀𝘁𝗮𝗰𝗸
+---
 
--Problem solving and algorithmic thinking
+## 💡 Interests
 
--Learning new technologies and frameworks
+- Full-stack web development  
+- Building projects using the **MERN Stack**  
+- Problem solving & algorithmic thinking  
+- Learning new technologies and frameworks  
 
-_📌 Notable Projects_
+---
 
+## 📌 Notable Projects
 
-**Mealo** – AI-powered personalized nutrition planner that generates smart meal plans and grocery lists based on health data and dietary preferences using the MERN stack.
+### 🥗 Mealo  
+**AI-powered personalized nutrition planner** that generates smart meal plans and grocery lists based on health data and dietary preferences using the MERN stack.
 
-**Weather-dashboard**– Real-time weather forecast app built with APIs and JavaScript.
+### 🌦 Weather Dashboard  
+A **real-time weather forecasting application** built using JavaScript and external APIs.
 
-_🌱 Currently Learning_
+---
 
+## 🌱 Currently Learning
 
--Advanced Java concepts
+- Advanced Java concepts  
+- React.js & MERN Stack deep dive  
 
--Concepts in React and MERN stack
+---
 
-_🌐 Socials:_
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anees-fathima-s-89b354263)
 
-_💻 Tech Stack:_
+---
 
+## 💻 Tools & Technologies
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -62,14 +90,14 @@ _💻 Tech Stack:_
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-_📊 GitHub Stats:_
+---
 
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Aneesfathima-S&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Aneesfathima-S&theme=dark&hide_border=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Aneesfathima-S&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneesfathima-S&theme=dark&hide_border=true&layout=compact)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Aneesfathima-S&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
