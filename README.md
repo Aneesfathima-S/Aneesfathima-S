@@ -9,48 +9,45 @@
 
 ## 👩‍💻 About Me
 
-const AneesFathima = {
-    title: "AI Architect & Full-Stack Innovator 🤖✨",
-    location: "India 🇮🇳",
-    education: "Computer Science Engineering",
-    currentMission: "Building intelligent systems that solve real-world problems",
+// 💙 AI • 💚 Full-Stack • 💜 Innovation
 
-    techStack: {
-        languages: ["Java", "JavaScript", "Python"],
-        frontend: ["React", "Bootstrap", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express.js"],
-        database: ["MongoDB"],
-        ai_tools: ["Gemini AI", "Machine Learning"],
-        authentication: ["JWT", "Firebase Google OAuth"],
-        tools: ["Git", "VS Code", "Postman"]
+const AneesFathima = {
+    👩‍💻 title: "AI Architect & Full-Stack Innovator 🤖✨",
+    🌍 location: "India 🇮🇳",
+    🎓 education: "Computer Science Engineering",
+    🚀 currentMission: "Building intelligent systems that solve real-world problems",
+
+    🛠️ techStack: {
+        💻 languages: ["Java", "JavaScript", "Python"],
+        🎨 frontend: ["React", "Bootstrap", "HTML5", "CSS3"],
+        ⚙️ backend: ["Node.js", "Express.js"],
+        🗄️ database: ["MongoDB"],
+        🤖 ai_tools: ["Gemini AI", "Machine Learning"],
+        🔐 authentication: ["JWT", "Firebase Google OAuth"],
+        🧰 tools: ["Git", "VS Code", "Postman"]
     },
 
-    achievements: [
-        "🏆 Oracle Certified Professional – Java SE 11 Developer",
-        "🚀 Built AI-powered Personalized Nutrition Planner (Mealo)",
-        "🧠 Designed smart meal & grocery list generators using AI",
-        "🔐 Implemented secure JWT & Google OAuth authentication",
-        "🌍 Developing AI-based cultural heritage platform (HeritQuest)"
+    🏆 achievements: [
+        "Oracle Certified Professional – Java SE 11 Developer",
+        "Built AI-powered Nutrition Planner (Mealo)",
+        "Designed smart meal & grocery generators using AI",
+        "Implemented JWT & Google OAuth security",
+        "Developing AI cultural platform (HeritQuest)"
     ],
 
-    currentlyDoing: () => {
+    🔥 currentlyDoing: () => {
         return "Turning ideas into scalable AI-powered applications";
     },
 
-    futureGoals: [
+    🌱 futureGoals: [
         "Build impactful AI products",
-        "Master full-stack + AI integration",
+        "Master Full-Stack + AI integration",
         "Create technology that improves lives"
-    ],
-
-    contact: {
-        email: "aneesfathima@example.com",
-        tagline: "Code with purpose. Build with intelligence. 💡"
-    }
+    ]
 };
 
 console.log(AneesFathima.currentlyDoing());
-// Output: Turning ideas into scalable AI-powered applications
+
 
 ---
 
