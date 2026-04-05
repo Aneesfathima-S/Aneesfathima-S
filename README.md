@@ -1,140 +1,86 @@
-<div align="center">
-  <img src="./13e1f36c-0d1f-4d10-a301-1c0a19f55775.png" alt="Coding Illustration" width="400"/>
-</div>
-
-<h1 align="center">Hi 👋, I'm Anees Fathima S</h1>
-<h3 align="center">Software Developer | MERN Stack Enthusiast</h3>
+<h1 align="center">Anees Fathima S</h1>
+<h3 align="center">Software Developer | MERN Stack | AI Enthusiast</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-// 💙 AI • 💚 Full-Stack • 💜 Innovation
+I am a Computer Science Engineering student and an Oracle Certified Java Developer with a strong interest in building scalable full-stack and AI-powered applications. I enjoy solving real-world problems by combining modern web technologies with intelligent systems.
 
-const AneesFathima = {
-    👩‍💻 title: "AI Architect & Full-Stack Innovator 🤖✨",
-    🌍 location: "India 🇮🇳",
-    🎓 education: "Computer Science Engineering",
-    🚀 currentMission: "Building intelligent systems that solve real-world problems",
-
-    🛠️ techStack: {
-        💻 languages: ["Java", "JavaScript", "Python"],
-        🎨 frontend: ["React", "Bootstrap", "HTML5", "CSS3"],
-        ⚙️ backend: ["Node.js", "Express.js"],
-        🗄️ database: ["MongoDB"],
-        🤖 ai_tools: ["Gemini AI", "Machine Learning"],
-        🔐 authentication: ["JWT", "Firebase Google OAuth"],
-        🧰 tools: ["Git", "VS Code", "Postman"]
-    },
-
-    🏆 achievements: [
-        "Oracle Certified Professional – Java SE 11 Developer",
-        "Built AI-powered Nutrition Planner (Mealo)",
-        "Designed smart meal & grocery generators using AI",
-        "Implemented JWT & Google OAuth security",
-        "Developing AI cultural platform (HeritQuest)"
-    ],
-
-    🔥 currentlyDoing: () => {
-        return "Turning ideas into scalable AI-powered applications";
-    },
-
-    🌱 futureGoals: [
-        "Build impactful AI products",
-        "Master Full-Stack + AI integration",
-        "Create technology that improves lives"
-    ]
-};
-
-console.log(AneesFathima.currentlyDoing());
-
+- 📍 Based in India  
+- 🎓 Computer Science Engineering  
+- 🏅 Oracle Certified Professional – Java SE 11 Developer  
+- 🚀 Focused on building AI-driven and full-stack applications  
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Technical Skills
 
-**Languages:**  
+### Languages
 - Java  
 - JavaScript  
-- Python (Beginner)
+- Python (Basic)
 
-**Frontend:**  
-- HTML  
-- CSS  
+### Frontend
 - React.js  
+- HTML5  
+- CSS3  
+- Bootstrap  
 
-**Backend:**  
+### Backend
 - Node.js  
 - Express.js  
 
-**Database:**  
-- MySQL  
+### Database
 - MongoDB  
+- MySQL  
 
-**Tools & Platforms:**  
-- Git  
-- GitHub  
+### Tools & Technologies
+- Git & GitHub  
 - VS Code  
 - Postman  
+- Firebase (Google OAuth)  
+- JWT Authentication  
 
 ---
 
-## 💡 Interests
+## 💼 Projects
 
-- Full-stack web development  
-- Building projects using the **MERN Stack**  
-- Problem solving & algorithmic thinking  
-- Learning new technologies and frameworks  
-
----
-
-## 📌 Notable Projects
-
-### 🥗 Mealo  
-**AI-powered personalized nutrition planner** that generates smart meal plans and grocery lists based on health data and dietary preferences using the MERN stack.
+### 🥗 Mealo – AI Nutrition Planner  
+Developed a full-stack AI-powered application that generates personalized meal plans and grocery lists based on user health data and dietary preferences.  
+- Built using MERN Stack  
+- Integrated AI for smart recommendations  
+- Implemented secure authentication using JWT and Google OAuth  
 
 ### 🌦 Weather Dashboard  
-A **real-time weather forecasting application** built using JavaScript and external APIs.
+Created a real-time weather application using JavaScript and external APIs to display live weather updates.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Java concepts  
-- React.js & MERN Stack deep dive  
+- Advanced Java & Spring concepts  
+- MERN Stack optimization  
+- AI integration in web applications  
 
 ---
 
-## 🌐 Socials
+## 🎯 Career Objective
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anees-fathima-s-89b354263)
+To contribute to innovative software solutions by leveraging my skills in full-stack development and artificial intelligence, while continuously learning and growing in a challenging environment.
 
 ---
 
-## 💻 Tools & Technologies
+## 🌐 Connect With Me
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/anees-fathima-s-89b354263)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Aneesfathima-S&theme=dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Aneesfathima-S&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneesfathima-S&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Aneesfathima-S&theme=default&hide_border=true)
 
----
+![](https://nirzak-streak-stats.vercel.app/?user=Aneesfathima-S&theme=default&hide_border=true)
 
-[![](https://visitcount.itsvg.in/api?id=Aneesfathima-S&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneesfathima-S&layout=compact&theme=default&hide_border=true)
